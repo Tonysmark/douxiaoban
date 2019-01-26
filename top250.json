@@ -1,0 +1,2001 @@
+[{
+        "serialNumber": "1",
+        "movieName": "\u8096\u7533\u514b\u7684\u6551\u8d4e",
+        "introduce": "1994/\u7f8e\u56fd/\u72af\u7f6a\u5267\u60c5",
+        "start": "9.6",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "2",
+        "movieName": "\u9738\u738b\u522b\u59ec",
+        "introduce": "1993/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u5267\u60c5\u7231\u60c5\u540c\u6027",
+        "start": "9.6",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "3",
+        "movieName": "\u8fd9\u4e2a\u6740\u624b\u4e0d\u592a\u51b7",
+        "introduce": "1994/\u6cd5\u56fd/\u5267\u60c5\u52a8\u4f5c\u72af\u7f6a",
+        "start": "9.4",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "4",
+        "movieName": "\u963f\u7518\u6b63\u4f20",
+        "introduce": "1994/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "9.4",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "5",
+        "movieName": "\u7f8e\u4e3d\u4eba\u751f",
+        "introduce": "1997/\u610f\u5927\u5229/\u5267\u60c5\u559c\u5267\u7231\u60c5\u6218\u4e89",
+        "start": "9.5",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "6",
+        "movieName": "\u6cf0\u5766\u5c3c\u514b\u53f7",
+        "introduce": "1997/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u707e\u96be",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "7",
+        "movieName": "\u5343\u4e0e\u5343\u5bfb",
+        "introduce": "2001/\u65e5\u672c/\u5267\u60c5\u52a8\u753b\u5947\u5e7b",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "8",
+        "movieName": "\u8f9b\u5fb7\u52d2\u7684\u540d\u5355",
+        "introduce": "1993/\u7f8e\u56fd/\u5267\u60c5\u5386\u53f2\u6218\u4e89",
+        "start": "9.5",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "9",
+        "movieName": "\u76d7\u68a6\u7a7a\u95f4",
+        "introduce": "2010/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u79d1\u5e7b\u60ac\u7591\u5192\u9669",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "10",
+        "movieName": "\u673a\u5668\u4eba\u603b\u52a8\u5458",
+        "introduce": "2008/\u7f8e\u56fd/\u7231\u60c5\u79d1\u5e7b\u52a8\u753b\u5192\u9669",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "11",
+        "movieName": "\u5fe0\u72ac\u516b\u516c\u7684\u6545\u4e8b",
+        "introduce": "2009/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "12",
+        "movieName": "\u4e09\u50bb\u5927\u95f9\u5b9d\u83b1\u575e",
+        "introduce": "2009/\u5370\u5ea6/\u5267\u60c5\u559c\u5267\u7231\u60c5\u6b4c\u821e",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "13",
+        "movieName": "\u6d77\u4e0a\u94a2\u7434\u5e08",
+        "introduce": "1998/\u610f\u5927\u5229/\u5267\u60c5\u97f3\u4e50",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "14",
+        "movieName": "\u653e\u725b\u73ed\u7684\u6625\u5929",
+        "introduce": "2004/\u6cd5\u56fd\u745e\u58eb\u5fb7\u56fd/\u5267\u60c5\u97f3\u4e50",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "15",
+        "movieName": "\u5927\u8bdd\u897f\u6e38\u4e4b\u5927\u5723\u5a36\u4eb2",
+        "introduce": "1995/\u9999\u6e2f\u4e2d\u56fd\u5927\u9646/\u559c\u5267\u7231\u60c5\u5947\u5e7b\u5192\u9669",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "16",
+        "movieName": "\u695a\u95e8\u7684\u4e16\u754c",
+        "introduce": "1998/\u7f8e\u56fd/\u5267\u60c5\u79d1\u5e7b",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "17",
+        "movieName": "\u9f99\u732b",
+        "introduce": "1988/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "18",
+        "movieName": "\u661f\u9645\u7a7f\u8d8a",
+        "introduce": "2014/\u7f8e\u56fd\u82f1\u56fd\u52a0\u62ff\u5927\u51b0\u5c9b/\u5267\u60c5\u79d1\u5e7b\u5192\u9669",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "19",
+        "movieName": "\u6559\u7236",
+        "introduce": "1972/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "20",
+        "movieName": "\u7194\u7089",
+        "introduce": "2011/\u97e9\u56fd/\u5267\u60c5",
+        "start": "9.3",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "21",
+        "movieName": "\u65e0\u95f4\u9053",
+        "introduce": "2002/\u9999\u6e2f/\u5267\u60c5\u72af\u7f6a\u60ac\u7591",
+        "start": "9.1",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "22",
+        "movieName": "\u5f53\u5e78\u798f\u6765\u6572\u95e8",
+        "introduce": "2006/\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u5bb6\u5ead",
+        "start": "9.0",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "23",
+        "movieName": "\u75af\u72c2\u52a8\u7269\u57ce",
+        "introduce": "2016/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "24",
+        "movieName": "\u89e6\u4e0d\u53ef\u53ca",
+        "introduce": "2011/\u6cd5\u56fd/\u5267\u60c5\u559c\u5267",
+        "start": "9.2",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "25",
+        "movieName": "\u6026\u7136\u5fc3\u52a8",
+        "introduce": "2010/\u7f8e\u56fd/\u5267\u60c5\u559c\u5267\u7231\u60c5",
+        "start": "9.0",
+        "evaluate": "1279906\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5e0c\u671b\u8ba9\u4eba\u81ea\u7531\u3002"
+    },
+    {
+        "serialNumber": "26",
+        "movieName": "\u4e71\u4e16\u4f73\u4eba",
+        "introduce": "1939/\u7f8e\u56fd/\u5267\u60c5\u5386\u53f2\u7231\u60c5\u6218\u4e89",
+        "start": "9.2",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "27",
+        "movieName": "\u8759\u8760\u4fa0\uff1a\u9ed1\u6697\u9a91\u58eb",
+        "introduce": "2008/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u52a8\u4f5c\u79d1\u5e7b\u72af\u7f6a\u60ca\u609a",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "28",
+        "movieName": "\u6d3b\u7740",
+        "introduce": "1994/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u5267\u60c5\u5386\u53f2\u5bb6\u5ead",
+        "start": "9.2",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "29",
+        "movieName": "\u5929\u5802\u7535\u5f71\u9662",
+        "introduce": "1988/\u610f\u5927\u5229\u6cd5\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "30",
+        "movieName": "\u5c11\u5e74\u6d3e\u7684\u5947\u5e7b\u6f02\u6d41",
+        "introduce": "2012/\u7f8e\u56fd\u53f0\u6e7e\u82f1\u56fd\u52a0\u62ff\u5927/\u5267\u60c5\u5947\u5e7b\u5192\u9669",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "31",
+        "movieName": "\u9b3c\u5b50\u6765\u4e86",
+        "introduce": "2000/\u4e2d\u56fd\u5927\u9646/\u5267\u60c5\u5386\u53f2\u6218\u4e89",
+        "start": "9.2",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "32",
+        "movieName": "\u5341\u4e8c\u6012\u6c49",
+        "introduce": "1957/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "9.4",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "33",
+        "movieName": "\u6307\u73af\u738b3\uff1a\u738b\u8005\u65e0\u654c",
+        "introduce": "2003/\u7f8e\u56fd\u65b0\u897f\u5170/\u5267\u60c5\u52a8\u4f5c\u5947\u5e7b\u5192\u9669",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "34",
+        "movieName": "\u63a7\u65b9\u8bc1\u4eba",
+        "introduce": "1957/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u60ac\u7591",
+        "start": "9.6",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "35",
+        "movieName": "\u5929\u7a7a\u4e4b\u57ce",
+        "introduce": "1986/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "36",
+        "movieName": "\u640f\u51fb\u4ff1\u4e50\u90e8",
+        "introduce": "1999/\u7f8e\u56fd\u5fb7\u56fd/\u5267\u60c5\u52a8\u4f5c\u60ac\u7591\u60ca\u609a",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "37",
+        "movieName": "\u98de\u5c4b\u73af\u6e38\u8bb0",
+        "introduce": "2009/\u7f8e\u56fd/\u5267\u60c5\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "8.9",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "38",
+        "movieName": "\u5927\u8bdd\u897f\u6e38\u4e4b\u6708\u5149\u5b9d\u76d2",
+        "introduce": "1995/\u9999\u6e2f\u4e2d\u56fd\u5927\u9646/\u559c\u5267\u7231\u60c5\u5947\u5e7b\u5192\u9669",
+        "start": "8.9",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "39",
+        "movieName": "\u6454\u8de4\u5427\uff01\u7238\u7238",
+        "introduce": "2016/\u5370\u5ea6/\u5267\u60c5\u4f20\u8bb0\u8fd0\u52a8\u5bb6\u5ead",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "40",
+        "movieName": "\u7f57\u9a6c\u5047\u65e5",
+        "introduce": "1953/\u7f8e\u56fd/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "41",
+        "movieName": "\u54c8\u5c14\u7684\u79fb\u52a8\u57ce\u5821",
+        "introduce": "2004/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "42",
+        "movieName": "\u7a83\u542c\u98ce\u66b4",
+        "introduce": "2006/\u5fb7\u56fd/\u5267\u60c5\u60ac\u7591",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "43",
+        "movieName": "\u95fb\u9999\u8bc6\u5973\u4eba",
+        "introduce": "1992/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "44",
+        "movieName": "\u8fa9\u62a4\u4eba",
+        "introduce": "2013/\u97e9\u56fd/\u5267\u60c5",
+        "start": "9.2",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "45",
+        "movieName": "\u4e24\u6746\u5927\u70df\u67aa",
+        "introduce": "1998/\u82f1\u56fd/\u5267\u60c5\u559c\u5267\u72af\u7f6a",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "46",
+        "movieName": "\u98de\u8d8a\u75af\u4eba\u9662",
+        "introduce": "1975/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "47",
+        "movieName": "\u6b7b\u4ea1\u8bd7\u793e",
+        "introduce": "1989/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "48",
+        "movieName": "V\u5b57\u4ec7\u6740\u961f",
+        "introduce": "2005/\u7f8e\u56fd\u82f1\u56fd\u5fb7\u56fd/\u5267\u60c5\u52a8\u4f5c\u79d1\u5e7b\u60ca\u609a",
+        "start": "8.8",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "49",
+        "movieName": "\u6307\u73af\u738b2\uff1a\u53cc\u5854\u5947\u5175",
+        "introduce": "2002/\u7f8e\u56fd\u65b0\u897f\u5170/\u5267\u60c5\u52a8\u4f5c\u5947\u5e7b\u5192\u9669",
+        "start": "9.0",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "50",
+        "movieName": "\u6559\u72362",
+        "introduce": "1974/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "9.1",
+        "evaluate": "347765\u4eba\u8bc4\u4ef7",
+        "describtion": "Tomorrow is another day."
+    },
+    {
+        "serialNumber": "51",
+        "movieName": "\u6d77\u8c5a\u6e7e",
+        "introduce": "2009/\u7f8e\u56fd/\u7eaa\u5f55\u7247",
+        "start": "9.3",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "52",
+        "movieName": "\u6307\u73af\u738b1\uff1a\u9b54\u6212\u518d\u73b0",
+        "introduce": "2001/\u65b0\u897f\u5170\u7f8e\u56fd/\u5267\u60c5\u52a8\u4f5c\u5947\u5e7b\u5192\u9669",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "53",
+        "movieName": "\u996e\u98df\u7537\u5973",
+        "introduce": "1994/\u53f0\u6e7e\u7f8e\u56fd/\u5267\u60c5\u5bb6\u5ead",
+        "start": "9.1",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "54",
+        "movieName": "\u7d20\u5a9b",
+        "introduce": "2013/\u97e9\u56fd/\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "55",
+        "movieName": "\u7f8e\u4e3d\u5fc3\u7075",
+        "introduce": "2001/\u7f8e\u56fd/\u4f20\u8bb0\u5267\u60c5",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "56",
+        "movieName": "\u672b\u4ee3\u7687\u5e1d",
+        "introduce": "1987/\u82f1\u56fd\u610f\u5927\u5229\u4e2d\u56fd\u5927\u9646\u6cd5\u56fd\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u5386\u53f2",
+        "start": "9.1",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "57",
+        "movieName": "\u60c5\u4e66",
+        "introduce": "1995/\u65e5\u672c/\u5267\u60c5\u7231\u60c5",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "58",
+        "movieName": "\u72ee\u5b50\u738b",
+        "introduce": "1994/\u7f8e\u56fd/\u5267\u60c5\u52a8\u753b\u5192\u9669\u6b4c\u821e\u5bb6\u5ead",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "59",
+        "movieName": "\u94a2\u7434\u5bb6",
+        "introduce": "2002/\u6cd5\u56fd\u5fb7\u56fd\u82f1\u56fd\u6ce2\u5170/\u5267\u60c5\u4f20\u8bb0\u5386\u53f2\u6218\u4e89\u97f3\u4e50",
+        "start": "9.1",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "60",
+        "movieName": "\u7f8e\u56fd\u5f80\u4e8b",
+        "introduce": "1984/\u610f\u5927\u5229\u7f8e\u56fd/\u72af\u7f6a\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "61",
+        "movieName": "\u5c0f\u978b\u5b50",
+        "introduce": "1997/\u4f0a\u6717/\u5267\u60c5\u5bb6\u5ead\u513f\u7ae5",
+        "start": "9.2",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "62",
+        "movieName": "\u672c\u6770\u660e\u00b7\u5df4\u987f\u5947\u4e8b",
+        "introduce": "2008/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u5947\u5e7b",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "63",
+        "movieName": "\u4e03\u5b97\u7f6a",
+        "introduce": "1995/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u60ac\u7591\u60ca\u609a",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "64",
+        "movieName": "\u897f\u897f\u91cc\u7684\u7f8e\u4e3d\u4f20\u8bf4",
+        "introduce": "2000/\u610f\u5927\u5229\u7f8e\u56fd/\u5267\u60c5\u6218\u4e89\u60c5\u8272",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "65",
+        "movieName": "\u81f4\u547d\u9b54\u672f",
+        "introduce": "2006/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "66",
+        "movieName": "\u88ab\u5acc\u5f03\u7684\u677e\u5b50\u7684\u4e00\u751f",
+        "introduce": "2006/\u65e5\u672c/\u5267\u60c5\u6b4c\u821e",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "67",
+        "movieName": "\u9ed1\u5ba2\u5e1d\u56fd",
+        "introduce": "1999/\u7f8e\u56fd\u6fb3\u5927\u5229\u4e9a/\u52a8\u4f5c\u79d1\u5e7b",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "68",
+        "movieName": "\u8ba9\u5b50\u5f39\u98de",
+        "introduce": "2010/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u5267\u60c5\u559c\u5267\u52a8\u4f5c\u897f\u90e8",
+        "start": "8.7",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "69",
+        "movieName": "\u770b\u4e0d\u89c1\u7684\u5ba2\u4eba",
+        "introduce": "2016/\u897f\u73ed\u7259/\u5267\u60c5\u72af\u7f6a\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "70",
+        "movieName": "\u62ef\u6551\u5927\u5175\u745e\u6069",
+        "introduce": "1998/\u7f8e\u56fd/\u5267\u60c5\u5386\u53f2\u6218\u4e89",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "71",
+        "movieName": "\u97f3\u4e50\u4e4b\u58f0",
+        "introduce": "1965/\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u7231\u60c5\u6b4c\u821e",
+        "start": "8.9",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "72",
+        "movieName": "\u5927\u95f9\u5929\u5bab",
+        "introduce": "1961(\u4e2d\u56fd\u5927\u9646)/1964(\u4e2d\u56fd\u5927\u9646)/1978(\u4e2d\u56fd\u5927\u9646)/2004(\u4e2d\u56fd\u5927\u9646)/\u4e2d\u56fd\u5927\u9646/\u52a8\u753b\u5947\u5e7b",
+        "start": "9.3",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "73",
+        "movieName": "\u5929\u4f7f\u7231\u7f8e\u4e3d",
+        "introduce": "2001/\u6cd5\u56fd\u5fb7\u56fd/\u559c\u5267\u7231\u60c5",
+        "start": "8.7",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "74",
+        "movieName": "\u4f4e\u4fd7\u5c0f\u8bf4",
+        "introduce": "1994/\u7f8e\u56fd/\u5267\u60c5\u559c\u5267\u72af\u7f6a",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "75",
+        "movieName": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u9b54\u6cd5\u77f3",
+        "introduce": "2001/\u7f8e\u56fd\u82f1\u56fd/\u5947\u5e7b\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "223160\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6d77\u8c5a\u7684\u5fae\u7b11\uff0c\u662f\u4e16\u754c\u4e0a\u6700\u9ad8\u660e\u7684\u4f2a\u88c5\u3002"
+    },
+    {
+        "serialNumber": "76",
+        "movieName": "\u52c7\u6562\u7684\u5fc3",
+        "introduce": "1995/\u7f8e\u56fd/\u52a8\u4f5c\u4f20\u8bb0\u5267\u60c5\u5386\u53f2\u6218\u4e89",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "77",
+        "movieName": "\u526a\u5200\u624b\u7231\u5fb7\u534e",
+        "introduce": "1990/\u7f8e\u56fd/\u5267\u60c5\u5947\u5e7b\u7231\u60c5",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "78",
+        "movieName": "\u6c89\u9ed8\u7684\u7f94\u7f8a",
+        "introduce": "1991/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u60ca\u609a",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "79",
+        "movieName": "\u8774\u8776\u6548\u5e94",
+        "introduce": "2004/\u7f8e\u56fd\u52a0\u62ff\u5927/\u5267\u60c5\u60ac\u7591\u79d1\u5e7b\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "80",
+        "movieName": "\u5bfb\u68a6\u73af\u6e38\u8bb0",
+        "introduce": "2017/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5947\u5e7b\u97f3\u4e50",
+        "start": "9.0",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "81",
+        "movieName": "\u6625\u5149\u4e4d\u6cc4",
+        "introduce": "1997/\u9999\u6e2f\u65e5\u672c\u97e9\u56fd/\u5267\u60c5\u7231\u60c5\u540c\u6027",
+        "start": "8.9",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "82",
+        "movieName": "\u5fc3\u7075\u6355\u624b",
+        "introduce": "1997/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "83",
+        "movieName": "\u732b\u9f20\u6e38\u620f",
+        "introduce": "2002/\u7f8e\u56fd\u52a0\u62ff\u5927/\u4f20\u8bb0\u72af\u7f6a\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "84",
+        "movieName": "\u5165\u6b93\u5e08",
+        "introduce": "2008/\u65e5\u672c/\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "85",
+        "movieName": "\u5e03\u8fbe\u4f69\u65af\u5927\u996d\u5e97",
+        "introduce": "2014/\u7f8e\u56fd\u5fb7\u56fd\u82f1\u56fd/\u5267\u60c5\u559c\u5267\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "86",
+        "movieName": "\u7981\u95ed\u5c9b",
+        "introduce": "2010/\u7f8e\u56fd/\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "87",
+        "movieName": "\u5e7d\u7075\u516c\u4e3b",
+        "introduce": "1997/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "88",
+        "movieName": "\u9633\u5149\u707f\u70c2\u7684\u65e5\u5b50",
+        "introduce": "1994/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "89",
+        "movieName": "\u739b\u4e3d\u548c\u9a6c\u514b\u601d",
+        "introduce": "2009/\u6fb3\u5927\u5229\u4e9a/\u5267\u60c5\u52a8\u753b",
+        "start": "8.9",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "90",
+        "movieName": "\u7a7f\u6761\u7eb9\u7761\u8863\u7684\u7537\u5b69",
+        "introduce": "2008/\u82f1\u56fd\u7f8e\u56fd/\u5267\u60c5\u6218\u4e89",
+        "start": "9.0",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "91",
+        "movieName": "\u7b2c\u516d\u611f",
+        "introduce": "1999/\u7f8e\u56fd/\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "92",
+        "movieName": "\u91cd\u5e86\u68ee\u6797",
+        "introduce": "1994/\u9999\u6e2f/\u5267\u60c5\u7231\u60c5",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "93",
+        "movieName": "\u72e9\u730e",
+        "introduce": "2012/\u4e39\u9ea6\u745e\u5178/\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "94",
+        "movieName": "\u81f4\u547dID",
+        "introduce": "2003/\u7f8e\u56fd/\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "95",
+        "movieName": "\u65ad\u80cc\u5c71",
+        "introduce": "2005/\u7f8e\u56fd\u52a0\u62ff\u5927/\u5267\u60c5\u7231\u60c5\u540c\u6027\u5bb6\u5ead",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "96",
+        "movieName": "\u52a0\u52d2\u6bd4\u6d77\u76d7",
+        "introduce": "2003/\u7f8e\u56fd/\u52a8\u4f5c\u5192\u9669\u5947\u5e7b",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "97",
+        "movieName": "\u963f\u51e1\u8fbe",
+        "introduce": "2009/\u7f8e\u56fd\u82f1\u56fd/\u52a8\u4f5c\u6218\u4e89\u79d1\u5e7b\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "98",
+        "movieName": "\u6469\u767b\u65f6\u4ee3",
+        "introduce": "1936/\u7f8e\u56fd/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "9.2",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "99",
+        "movieName": "\u5927\u9c7c",
+        "introduce": "2003/\u7f8e\u56fd/\u5267\u60c5\u5bb6\u5ead\u5947\u5e7b\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "100",
+        "movieName": "\u544a\u767d",
+        "introduce": "2010/\u65e5\u672c/\u5267\u60c5\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "354059\u4eba\u8bc4\u4ef7",
+        "describtion": "\u53f2\u8bd7\u5927\u7247\u7684\u5178\u8303\u3002"
+    },
+    {
+        "serialNumber": "101",
+        "movieName": "\u4e00\u4e00",
+        "introduce": "2000/\u53f0\u6e7e\u65e5\u672c/\u5267\u60c5\u7231\u60c5\u5bb6\u5ead",
+        "start": "9.0",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "102",
+        "movieName": "\u5c04\u96d5\u82f1\u96c4\u4f20\u4e4b\u4e1c\u6210\u897f\u5c31",
+        "introduce": "1993/\u9999\u6e2f/\u559c\u5267\u53e4\u88c5",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "103",
+        "movieName": "\u9633\u5149\u59d0\u59b9\u6dd8",
+        "introduce": "2011/\u97e9\u56fd/\u5267\u60c5\u559c\u5267",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "104",
+        "movieName": "\u751c\u871c\u871c",
+        "introduce": "1996/\u9999\u6e2f/\u5267\u60c5\u7231\u60c5",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "105",
+        "movieName": "\u6d88\u5931\u7684\u7231\u4eba",
+        "introduce": "2014/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "106",
+        "movieName": "\u7231\u5728\u9ece\u660e\u7834\u6653\u524d",
+        "introduce": "1995/\u7f8e\u56fd\u5965\u5730\u5229\u745e\u58eb/\u5267\u60c5\u7231\u60c5",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "107",
+        "movieName": "\u559c\u5267\u4e4b\u738b",
+        "introduce": "1999/\u9999\u6e2f/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "8.6",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "108",
+        "movieName": "\u4e0a\u5e1d\u4e4b\u57ce",
+        "introduce": "2002/\u5df4\u897f\u6cd5\u56fd/\u72af\u7f6a\u5267\u60c5",
+        "start": "8.9",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "109",
+        "movieName": "\u5c0f\u68ee\u6797 \u590f\u79cb\u7bc7",
+        "introduce": "2014/\u65e5\u672c/\u5267\u60c5",
+        "start": "8.9",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "110",
+        "movieName": "\u4fa7\u8033\u503e\u542c",
+        "introduce": "1995/\u65e5\u672c/\u5267\u60c5\u7231\u60c5\u52a8\u753b",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "111",
+        "movieName": "\u5029\u5973\u5e7d\u9b42",
+        "introduce": "1987/\u9999\u6e2f/\u5267\u60c5\u7231\u60c5\u6b66\u4fa0\u53e4\u88c5",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "112",
+        "movieName": "\u98ce\u4e4b\u8c37",
+        "introduce": "1984/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "113",
+        "movieName": "\u6050\u6016\u76f4\u64ad",
+        "introduce": "2013/\u97e9\u56fd/\u5267\u60c5\u72af\u7f6a\u60ac\u7591",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "114",
+        "movieName": "\u7ea2\u8fa3\u6912",
+        "introduce": "2006/\u65e5\u672c/\u52a8\u753b\u60ac\u7591\u79d1\u5e7b\u60ca\u609a",
+        "start": "8.9",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "115",
+        "movieName": "\u8d85\u8131",
+        "introduce": "2011/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "116",
+        "movieName": "\u7231\u5728\u65e5\u843d\u9ec4\u660f\u65f6",
+        "introduce": "2004/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "117",
+        "movieName": "\u83ca\u6b21\u90ce\u7684\u590f\u5929",
+        "introduce": "1999/\u65e5\u672c/\u5267\u60c5\u559c\u5267",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "118",
+        "movieName": "\u9a6f\u9f99\u9ad8\u624b",
+        "introduce": "2010/\u7f8e\u56fd/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "119",
+        "movieName": "\u5e78\u798f\u7ec8\u70b9\u7ad9",
+        "introduce": "2004/\u7f8e\u56fd/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "120",
+        "movieName": "\u8bf7\u4ee5\u4f60\u7684\u540d\u5b57\u547c\u5524\u6211",
+        "introduce": "2017/\u610f\u5927\u5229\u6cd5\u56fd\u5df4\u897f\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u540c\u6027",
+        "start": "8.8",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "121",
+        "movieName": "\u6740\u4eba\u56de\u5fc6",
+        "introduce": "2003/\u97e9\u56fd/\u72af\u7f6a\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "122",
+        "movieName": "\u795e\u5077\u5976\u7238",
+        "introduce": "2010/\u7f8e\u56fd\u6cd5\u56fd/\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "8.5",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "123",
+        "movieName": "\u501f\u4e1c\u897f\u7684\u5c0f\u4eba\u963f\u8389\u57c3\u8482",
+        "introduce": "2010/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "124",
+        "movieName": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u6b7b\u4ea1\u5723\u5668(\u4e0b)",
+        "introduce": "2011/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u60ac\u7591\u5947\u5e7b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "125",
+        "movieName": "\u5c0f\u68ee\u6797 \u51ac\u6625\u7bc7",
+        "introduce": "2015/\u65e5\u672c/\u5267\u60c5",
+        "start": "9.0",
+        "evaluate": "190024\u4eba\u8bc4\u4ef7",
+        "describtion": "\u6211\u4eec\u90fd\u66fe\u7ecf\u662f\u4e00\u4e00\u3002"
+    },
+    {
+        "serialNumber": "126",
+        "movieName": "\u4e03\u6b66\u58eb",
+        "introduce": "1954/\u65e5\u672c/\u52a8\u4f5c\u5192\u9669\u5267\u60c5",
+        "start": "9.2",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "127",
+        "movieName": "\u5c81\u6708\u795e\u5077",
+        "introduce": "2010/\u9999\u6e2f\u4e2d\u56fd\u5927\u9646/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "128",
+        "movieName": "\u602a\u517d\u7535\u529b\u516c\u53f8",
+        "introduce": "2001/\u7f8e\u56fd/\u513f\u7ae5\u559c\u5267\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "129",
+        "movieName": "7\u53f7\u623f\u7684\u793c\u7269",
+        "introduce": "2013/\u97e9\u56fd/\u5267\u60c5\u559c\u5267\u5bb6\u5ead",
+        "start": "8.8",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "130",
+        "movieName": "\u771f\u7231\u81f3\u4e0a",
+        "introduce": "2003/\u82f1\u56fd\u7f8e\u56fd\u6cd5\u56fd/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "131",
+        "movieName": "\u8c0d\u5f71\u91cd\u91cd3",
+        "introduce": "2007/\u7f8e\u56fd\u5fb7\u56fd/\u52a8\u4f5c\u60ac\u7591\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "132",
+        "movieName": "\u7535\u952f\u60ca\u9b42",
+        "introduce": "2004/\u7f8e\u56fd/\u60ac\u7591\u60ca\u609a\u6050\u6016",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "133",
+        "movieName": "\u8424\u706b\u866b\u4e4b\u5893",
+        "introduce": "1988/\u65e5\u672c/\u52a8\u753b\u5267\u60c5\u6218\u4e89",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "134",
+        "movieName": "\u8424\u706b\u4e4b\u68ee",
+        "introduce": "2011/\u65e5\u672c/\u5267\u60c5\u7231\u60c5\u52a8\u753b\u5947\u5e7b",
+        "start": "8.8",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "135",
+        "movieName": "\u75af\u72c2\u539f\u59cb\u4eba",
+        "introduce": "2013/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "136",
+        "movieName": "\u4e1c\u90aa\u897f\u6bd2",
+        "introduce": "1994/\u9999\u6e2f\u53f0\u6e7e/\u5267\u60c5\u52a8\u4f5c\u7231\u60c5\u6b66\u4fa0\u53e4\u88c5",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "137",
+        "movieName": "\u559c\u5bb4",
+        "introduce": "1993/\u53f0\u6e7e\u7f8e\u56fd/\u5267\u60c5\u559c\u5267\u7231\u60c5\u540c\u6027\u5bb6\u5ead",
+        "start": "8.8",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "138",
+        "movieName": "\u8d85\u80fd\u9646\u6218\u961f",
+        "introduce": "2014/\u7f8e\u56fd/\u559c\u5267\u52a8\u4f5c\u79d1\u5e7b\u52a8\u753b\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "139",
+        "movieName": "\u8d2b\u6c11\u7a9f\u7684\u767e\u4e07\u5bcc\u7fc1",
+        "introduce": "2008/\u82f1\u56fd\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "140",
+        "movieName": "\u5510\u4f2f\u864e\u70b9\u79cb\u9999",
+        "introduce": "1993/\u9999\u6e2f/\u559c\u5267\u7231\u60c5\u53e4\u88c5",
+        "start": "8.5",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "141",
+        "movieName": "\u8759\u8760\u4fa0\uff1a\u9ed1\u6697\u9a91\u58eb\u5d1b\u8d77",
+        "introduce": "2012/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u52a8\u4f5c\u79d1\u5e7b\u72af\u7f6a\u60ca\u609a",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "142",
+        "movieName": "\u8bb0\u5fc6\u788e\u7247",
+        "introduce": "2000/\u7f8e\u56fd/\u72af\u7f6a\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "143",
+        "movieName": "\u9ed1\u5929\u9e45",
+        "introduce": "2010/\u7f8e\u56fd/\u5267\u60c5\u60ca\u609a",
+        "start": "8.5",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "144",
+        "movieName": "\u82f1\u96c4\u672c\u8272",
+        "introduce": "1986/\u9999\u6e2f/\u52a8\u4f5c\u72af\u7f6a",
+        "start": "8.6",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "145",
+        "movieName": "\u5fc3\u8ff7\u5bab",
+        "introduce": "2014/\u4e2d\u56fd\u5927\u9646/\u5267\u60c5\u72af\u7f6a\u60ac\u7591",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "146",
+        "movieName": "\u96e8\u4eba",
+        "introduce": "1988/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "8.7",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "147",
+        "movieName": "\u50b2\u6162\u4e0e\u504f\u89c1",
+        "introduce": "2005/\u6cd5\u56fd\u82f1\u56fd\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "148",
+        "movieName": "\u65e0\u4eba\u77e5\u6653",
+        "introduce": "2004/\u65e5\u672c/\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "149",
+        "movieName": "\u8352\u86ee\u6545\u4e8b",
+        "introduce": "2014/\u963f\u6839\u5ef7\u897f\u73ed\u7259/\u5267\u60c5\u559c\u5267\u72af\u7f6a",
+        "start": "8.8",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "150",
+        "movieName": "\u5362\u65fa\u8fbe\u996d\u5e97",
+        "introduce": "2004/\u82f1\u56fd\u5357\u975e\u610f\u5927\u5229\u7f8e\u56fd/\u5267\u60c5\u5386\u53f2\u6218\u4e89",
+        "start": "8.9",
+        "evaluate": "97359\u4eba\u8bc4\u4ef7",
+        "describtion": "\u65f6\u4ee3\u60b2\u6b4c\u3002"
+    },
+    {
+        "serialNumber": "151",
+        "movieName": "\u7eb5\u6a2a\u56db\u6d77",
+        "introduce": "1991/\u9999\u6e2f/\u5267\u60c5\u559c\u5267\u52a8\u4f5c\u72af\u7f6a",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "152",
+        "movieName": "\u8840\u6218\u94a2\u952f\u5cad",
+        "introduce": "2016/\u7f8e\u56fd\u6fb3\u5927\u5229\u4e9a/\u5267\u60c5\u4f20\u8bb0\u5386\u53f2\u6218\u4e89",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "153",
+        "movieName": "\u65f6\u7a7a\u604b\u65c5\u4eba",
+        "introduce": "2013/\u82f1\u56fd/\u5267\u60c5\u7231\u60c5\u5947\u5e7b",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "154",
+        "movieName": "\u6559\u72363",
+        "introduce": "1990/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.8",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "155",
+        "movieName": "\u6d77\u8fb9\u7684\u66fc\u5f7b\u65af\u7279",
+        "introduce": "2016/\u7f8e\u56fd/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "156",
+        "movieName": "\u73a9\u5177\u603b\u52a8\u54583",
+        "introduce": "2010/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.8",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "157",
+        "movieName": "\u6d77\u6d0b",
+        "introduce": "2009/\u6cd5\u56fd\u745e\u58eb\u897f\u73ed\u7259\u7f8e\u56fd\u963f\u8054\u914b/\u7eaa\u5f55\u7247",
+        "start": "9.0",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "158",
+        "movieName": "\u82b1\u6837\u5e74\u534e",
+        "introduce": "2000/\u9999\u6e2f/\u5267\u60c5\u7231\u60c5",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "159",
+        "movieName": "\u5b8c\u7f8e\u7684\u4e16\u754c",
+        "introduce": "1993/\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "9.0",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "160",
+        "movieName": "\u8fbe\u62c9\u65af\u4e70\u5bb6\u4ff1\u4e50\u90e8",
+        "introduce": "2013/\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u540c\u6027",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "161",
+        "movieName": "\u864e\u53e3\u8131\u9669",
+        "introduce": "1966/\u6cd5\u56fd\u82f1\u56fd/\u559c\u5267\u6218\u4e89",
+        "start": "8.9",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "162",
+        "movieName": "\u604b\u604b\u7b14\u8bb0\u672c",
+        "introduce": "2004/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "163",
+        "movieName": "\u4f60\u770b\u8d77\u6765\u597d\u50cf\u5f88\u597d\u5403",
+        "introduce": "2010/\u65e5\u672c/\u5267\u60c5\u52a8\u753b\u513f\u7ae5",
+        "start": "8.8",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "164",
+        "movieName": "\u71c3\u60c5\u5c81\u6708",
+        "introduce": "1994/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u897f\u90e8\u5bb6\u5ead",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "165",
+        "movieName": "\u4e8c\u5341\u4e8c",
+        "introduce": "2015/\u4e2d\u56fd\u5927\u9646/\u7eaa\u5f55\u7247",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "166",
+        "movieName": "\u96e8\u4e2d\u66f2",
+        "introduce": "1952/\u7f8e\u56fd/\u559c\u5267\u6b4c\u821e\u7231\u60c5",
+        "start": "9.0",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "167",
+        "movieName": "\u51b0\u5ddd\u65f6\u4ee3",
+        "introduce": "2002/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "8.5",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "168",
+        "movieName": "\u6211\u662f\u5c71\u59c6",
+        "introduce": "2001/\u7f8e\u56fd/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.8",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "169",
+        "movieName": "\u7a7f\u8d8a\u65f6\u7a7a\u7684\u5c11\u5973",
+        "introduce": "2006/\u65e5\u672c/\u5267\u60c5\u7231\u60c5\u79d1\u5e7b\u52a8\u753b",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "170",
+        "movieName": "\u9b42\u65ad\u84dd\u6865",
+        "introduce": "1940/\u7f8e\u56fd/\u5267\u60c5\u6218\u4e89\u7231\u60c5",
+        "start": "8.8",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "171",
+        "movieName": "\u5934\u8111\u7279\u5de5\u961f",
+        "introduce": "2015/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "172",
+        "movieName": "\u88ab\u89e3\u6551\u7684\u59dc\u6208",
+        "introduce": "2012/\u7f8e\u56fd/\u5267\u60c5\u52a8\u4f5c\u897f\u90e8\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "173",
+        "movieName": "\u731c\u706b\u8f66",
+        "introduce": "1996/\u82f1\u56fd/\u72af\u7f6a\u5267\u60c5",
+        "start": "8.5",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "174",
+        "movieName": "\u4eba\u5de5\u667a\u80fd",
+        "introduce": "2001/\u7f8e\u56fd/\u5192\u9669\u5267\u60c5\u79d1\u5e7b",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "175",
+        "movieName": "\u7206\u88c2\u9f13\u624b",
+        "introduce": "2014/\u7f8e\u56fd/\u5267\u60c5\u97f3\u4e50",
+        "start": "8.6",
+        "evaluate": "192884\u4eba\u8bc4\u4ef7",
+        "describtion": "\u9999\u6e2f\u6d6a\u6f2b\u4e3b\u4e49\u8b66\u532a\u52a8\u4f5c\u7247\u7684\u5dc5\u5cf0\u4e4b\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "176",
+        "movieName": "\u65e0\u654c\u7834\u574f\u738b",
+        "introduce": "2012/\u7f8e\u56fd/\u559c\u5267\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "177",
+        "movieName": "\u4f60\u7684\u540d\u5b57\u3002",
+        "introduce": "2016/\u65e5\u672c/\u5267\u60c5\u7231\u60c5\u52a8\u753b",
+        "start": "8.4",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "178",
+        "movieName": "\u672a\u9ebb\u7684\u90e8\u5c4b",
+        "introduce": "1997/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u60ca\u609a",
+        "start": "8.9",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "179",
+        "movieName": "\u7f57\u751f\u95e8",
+        "introduce": "1950/\u65e5\u672c/\u72af\u7f6a\u5267\u60c5\u60ac\u7591",
+        "start": "8.7",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "180",
+        "movieName": "\u6a21\u4eff\u6e38\u620f",
+        "introduce": "2014/\u82f1\u56fd\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u6218\u4e89\u540c\u6027",
+        "start": "8.6",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "181",
+        "movieName": "\u963f\u98de\u6b63\u4f20",
+        "introduce": "1990/\u9999\u6e2f/\u72af\u7f6a\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "182",
+        "movieName": "\u9999\u6c34",
+        "introduce": "2006/\u5fb7\u56fd\u6cd5\u56fd\u897f\u73ed\u7259\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u5947\u5e7b",
+        "start": "8.4",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "183",
+        "movieName": "\u623f\u95f4",
+        "introduce": "2015/\u7231\u5c14\u5170\u52a0\u62ff\u5927\u82f1\u56fd\u7f8e\u56fd/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.8",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "184",
+        "movieName": "\u4e00\u4e2a\u53eb\u6b27\u7ef4\u7684\u7537\u4eba\u51b3\u5b9a\u53bb\u6b7b",
+        "introduce": "2015/\u745e\u5178/\u5267\u60c5",
+        "start": "8.8",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "185",
+        "movieName": "\u6d6a\u6f6e",
+        "introduce": "2008/\u5fb7\u56fd/\u5267\u60c5\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "186",
+        "movieName": "\u6717\u8bfb\u8005",
+        "introduce": "2008/\u7f8e\u56fd\u5fb7\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.5",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "187",
+        "movieName": "\u6050\u6016\u6e38\u8f6e",
+        "introduce": "2009/\u82f1\u56fd\u6fb3\u5927\u5229\u4e9a/\u5267\u60c5\u60ac\u7591\u60ca\u609a",
+        "start": "8.4",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "188",
+        "movieName": "\u5fe0\u72ac\u516b\u516c\u7269\u8bed",
+        "introduce": "1987/\u65e5\u672c/\u5267\u60c5",
+        "start": "9.1",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "189",
+        "movieName": "\u5b8c\u7f8e\u964c\u751f\u4eba",
+        "introduce": "2016/\u610f\u5927\u5229/\u5267\u60c5\u559c\u5267",
+        "start": "8.5",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "190",
+        "movieName": "\u9b54\u5973\u5b85\u6025\u4fbf",
+        "introduce": "1989/\u65e5\u672c/\u52a8\u753b\u5947\u5e7b\u5192\u9669",
+        "start": "8.5",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "191",
+        "movieName": "\u53ef\u53ef\u897f\u91cc",
+        "introduce": "2004/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.7",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "192",
+        "movieName": "\u54ea\u5412\u95f9\u6d77",
+        "introduce": "1979/\u4e2d\u56fd\u5927\u9646/\u5192\u9669\u52a8\u753b\u5947\u5e7b",
+        "start": "8.9",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "193",
+        "movieName": "\u6218\u4e89\u4e4b\u738b",
+        "introduce": "2005/\u7f8e\u56fd\u6cd5\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.6",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "194",
+        "movieName": "\u8c0d\u5f71\u91cd\u91cd",
+        "introduce": "2002/\u7f8e\u56fd\u5fb7\u56fd\u6377\u514b/\u52a8\u4f5c\u60ac\u7591\u60ca\u609a",
+        "start": "8.5",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "195",
+        "movieName": "\u4e00\u6b21\u522b\u79bb",
+        "introduce": "2011/\u4f0a\u6717\u6cd5\u56fd/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.7",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "196",
+        "movieName": "\u8c0d\u5f71\u91cd\u91cd2",
+        "introduce": "2004/\u7f8e\u56fd\u5fb7\u56fd/\u52a8\u4f5c\u60ac\u7591\u60ca\u609a",
+        "start": "8.6",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "197",
+        "movieName": "\u726f\u5cad\u8857\u5c11\u5e74\u6740\u4eba\u4e8b\u4ef6",
+        "introduce": "1991/\u53f0\u6e7e/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.8",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "198",
+        "movieName": "\u5730\u7403\u4e0a\u7684\u661f\u661f",
+        "introduce": "2007/\u5370\u5ea6/\u5267\u60c5\u513f\u7ae5\u5bb6\u5ead",
+        "start": "8.9",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "199",
+        "movieName": "\u9ed1\u5ba2\u5e1d\u56fd3\uff1a\u77e9\u9635\u9769\u547d",
+        "introduce": "2003/\u7f8e\u56fd\u6fb3\u5927\u5229\u4e9a/\u52a8\u4f5c\u79d1\u5e7b",
+        "start": "8.6",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "200",
+        "movieName": "\u8ffd\u968f",
+        "introduce": "1998/\u82f1\u56fd/\u72af\u7f6a\u60ac\u7591\u60ca\u609a",
+        "start": "8.9",
+        "evaluate": "257894\u4eba\u8bc4\u4ef7",
+        "describtion": "\u8fea\u58eb\u5c3c\u548c\u76ae\u514b\u65af\u62ff\u9519\u5267\u672c\u7684\u4ea7\u7269\u3002"
+    },
+    {
+        "serialNumber": "201",
+        "movieName": "\u6d77\u8857\u65e5\u8bb0",
+        "introduce": "2015/\u65e5\u672c/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.7",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "202",
+        "movieName": "\u649e\u8f66",
+        "introduce": "2004/\u7f8e\u56fd\u5fb7\u56fd/\u72af\u7f6a\u5267\u60c5",
+        "start": "8.6",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "203",
+        "movieName": "\u60ca\u9b42\u8bb0",
+        "introduce": "1960/\u7f8e\u56fd/\u60ac\u7591\u60ca\u609a\u6050\u6016",
+        "start": "8.9",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "204",
+        "movieName": "\u9752\u86c7",
+        "introduce": "1993/\u9999\u6e2f/\u5267\u60c5\u5947\u5e7b\u53e4\u88c5",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "205",
+        "movieName": "\u518d\u6b21\u51fa\u53d1\u4e4b\u7ebd\u7ea6\u9047\u89c1\u4f60",
+        "introduce": "2013/\u7f8e\u56fd/\u559c\u5267\u7231\u60c5\u97f3\u4e50",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "206",
+        "movieName": "\u68a6\u4e4b\u5b89\u9b42\u66f2",
+        "introduce": "2000/\u7f8e\u56fd/\u5267\u60c5",
+        "start": "8.7",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "207",
+        "movieName": "\u5c0f\u841d\u8389\u7684\u7334\u795e\u5927\u53d4",
+        "introduce": "2015/\u5370\u5ea6/\u5267\u60c5\u559c\u5267\u52a8\u4f5c",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "208",
+        "movieName": "\u6b65\u5c65\u4e0d\u505c",
+        "introduce": "2008/\u65e5\u672c/\u5267\u60c5\u5bb6\u5ead",
+        "start": "8.8",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "209",
+        "movieName": "\u65b0\u9f99\u95e8\u5ba2\u6808",
+        "introduce": "1992/\u9999\u6e2f\u4e2d\u56fd\u5927\u9646/\u5267\u60c5\u52a8\u4f5c\u6b66\u4fa0\u53e4\u88c5",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "210",
+        "movieName": "\u6e90\u4ee3\u7801",
+        "introduce": "2011/\u7f8e\u56fd\u52a0\u62ff\u5927/\u79d1\u5e7b\u60ac\u7591\u60ca\u609a",
+        "start": "8.4",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "211",
+        "movieName": "\u4e09\u5757\u5e7f\u544a\u724c",
+        "introduce": "2017/\u7f8e\u56fd\u82f1\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.7",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "212",
+        "movieName": "\u7ec8\u7ed3\u80052\uff1a\u5ba1\u5224\u65e5",
+        "introduce": "1991/\u7f8e\u56fd\u6cd5\u56fd/\u52a8\u4f5c\u79d1\u5e7b",
+        "start": "8.6",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "213",
+        "movieName": "\u4e1c\u4eac\u7269\u8bed",
+        "introduce": "1953/\u65e5\u672c/\u5267\u60c5\u5bb6\u5ead",
+        "start": "9.2",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "214",
+        "movieName": "\u521d\u604b\u8fd9\u4ef6\u5c0f\u4e8b",
+        "introduce": "2010/\u6cf0\u56fd/\u5267\u60c5\u559c\u5267\u7231\u60c5",
+        "start": "8.3",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "215",
+        "movieName": "\u75af\u72c2\u7684\u77f3\u5934",
+        "introduce": "2006/\u4e2d\u56fd\u5927\u9646\u9999\u6e2f/\u559c\u5267\u72af\u7f6a",
+        "start": "8.3",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "216",
+        "movieName": "\u7231\u5728\u5348\u591c\u964d\u4e34\u524d",
+        "introduce": "2013/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "8.8",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "217",
+        "movieName": "\u57ce\u5e02\u4e4b\u5149",
+        "introduce": "1931/\u7f8e\u56fd/\u559c\u5267\u5267\u60c5\u7231\u60c5",
+        "start": "9.3",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "218",
+        "movieName": "\u65e0\u803b\u6df7\u86cb",
+        "introduce": "2009/\u7f8e\u56fd\u5fb7\u56fd/\u5267\u60c5\u72af\u7f6a",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "219",
+        "movieName": "\u7eff\u91cc\u5947\u8ff9",
+        "introduce": "1999/\u7f8e\u56fd/\u72af\u7f6a\u5267\u60c5\u5947\u5e7b\u60ac\u7591",
+        "start": "8.7",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "220",
+        "movieName": "\u672b\u8def\u72c2\u82b1",
+        "introduce": "1991/\u7f8e\u56fd\u6cd5\u56fd/\u72af\u7f6a\u5267\u60c5\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "221",
+        "movieName": "\u8fd9\u4e2a\u7537\u4eba\u6765\u81ea\u5730\u7403",
+        "introduce": "2007/\u7f8e\u56fd/\u5267\u60c5\u79d1\u5e7b",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "222",
+        "movieName": "E.T. \u5916\u661f\u4eba",
+        "introduce": "1982/\u7f8e\u56fd/\u5267\u60c5\u79d1\u5e7b",
+        "start": "8.5",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "223",
+        "movieName": "\u52c7\u95ef\u593a\u547d\u5c9b",
+        "introduce": "1996/\u7f8e\u56fd/\u52a8\u4f5c\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "224",
+        "movieName": "\u5f57\u661f\u6765\u7684\u90a3\u4e00\u591c",
+        "introduce": "2013/\u7f8e\u56fd\u82f1\u56fd/\u79d1\u5e7b\u60ac\u7591\u60ca\u609a",
+        "start": "8.4",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "225",
+        "movieName": "\u79d2\u901f5\u5398\u7c73",
+        "introduce": "2007/\u65e5\u672c/\u52a8\u753b\u5267\u60c5\u7231\u60c5",
+        "start": "8.3",
+        "evaluate": "178026\u4eba\u8bc4\u4ef7",
+        "describtion": "\u662f\u679d\u88d5\u548c\u7684\u5bb6\u5ead\u4e60\u4f5c\u3002"
+    },
+    {
+        "serialNumber": "226",
+        "movieName": "\u53d8\u8138",
+        "introduce": "1997/\u7f8e\u56fd/\u52a8\u4f5c\u79d1\u5e7b\u72af\u7f6a\u60ca\u609a",
+        "start": "8.4",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "227",
+        "movieName": "\u8840\u94bb",
+        "introduce": "2006/\u7f8e\u56fd\u5fb7\u56fd/\u5267\u60c5\u60ca\u609a\u5192\u9669",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "228",
+        "movieName": "\u9ec4\u91d1\u4e09\u9556\u5ba2",
+        "introduce": "1966/\u610f\u5927\u5229\u897f\u73ed\u7259\u897f\u5fb7/\u5192\u9669\u897f\u90e8",
+        "start": "9.1",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "229",
+        "movieName": "\u53d1\u6761\u6a59",
+        "introduce": "1971/\u82f1\u56fd\u7f8e\u56fd/\u72af\u7f6a\u5267\u60c5\u79d1\u5e7b",
+        "start": "8.5",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "230",
+        "movieName": "\u805a\u7126",
+        "introduce": "2015/\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0",
+        "start": "8.8",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "231",
+        "movieName": "\u5361\u8428\u5e03\u5170\u5361",
+        "introduce": "1942/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u6218\u4e89",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "232",
+        "movieName": "\u78a7\u6d77\u84dd\u5929",
+        "introduce": "1988/\u6cd5\u56fd\u7f8e\u56fd\u610f\u5927\u5229/\u5267\u60c5\u7231\u60c5",
+        "start": "8.7",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "233",
+        "movieName": "\u975e\u5e38\u5acc\u7591\u72af",
+        "introduce": "1995/\u5fb7\u56fd\u7f8e\u56fd/\u5267\u60c5\u72af\u7f6a\u60ac\u7591\u60ca\u609a",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "234",
+        "movieName": "\u7f8e\u56fd\u4e3d\u4eba",
+        "introduce": "1999/\u7f8e\u56fd/\u5267\u60c5\u7231\u60c5\u5bb6\u5ead",
+        "start": "8.5",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "235",
+        "movieName": "\u56fd\u738b\u7684\u6f14\u8bb2",
+        "introduce": "2010/\u82f1\u56fd\u6fb3\u5927\u5229\u4e9a\u7f8e\u56fd/\u5267\u60c5\u4f20\u8bb0\u5386\u53f2",
+        "start": "8.3",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "236",
+        "movieName": "\u5929\u4e66\u5947\u8c2d",
+        "introduce": "1983(\u4e2d\u56fd\u5927\u9646)/2019(\u4e2d\u56fd\u5927\u9646\u91cd\u6620)/\u4e2d\u56fd\u5927\u9646/\u52a8\u753b",
+        "start": "9.1",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "237",
+        "movieName": "\u9ed1\u9e70\u5760\u843d",
+        "introduce": "2001/\u7f8e\u56fd/\u52a8\u4f5c\u5386\u53f2\u6218\u4e89",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "238",
+        "movieName": "\u6211\u7231\u4f60",
+        "introduce": "2011/\u97e9\u56fd/\u5267\u60c5\u7231\u60c5",
+        "start": "9.0",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "239",
+        "movieName": "\u5343\u94a7\u4e00\u53d1",
+        "introduce": "1997/\u7f8e\u56fd/\u5267\u60c5\u79d1\u5e7b\u60ca\u609a",
+        "start": "8.7",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "240",
+        "movieName": "2001\u592a\u7a7a\u6f2b\u6e38",
+        "introduce": "1968/\u82f1\u56fd\u7f8e\u56fd/\u79d1\u5e7b\u60ca\u609a\u5192\u9669",
+        "start": "8.7",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "241",
+        "movieName": "\u6d77\u76d7\u7535\u53f0",
+        "introduce": "2009/\u82f1\u56fd\u5fb7\u56fd\u6cd5\u56fd/\u5267\u60c5\u559c\u5267\u97f3\u4e50",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "242",
+        "movieName": "\u6d77\u8482\u548c\u7237\u7237",
+        "introduce": "2015/\u5fb7\u56fd\u745e\u58eb\u5357\u975e/\u5267\u60c5\u5192\u9669\u5bb6\u5ead",
+        "start": "9.0",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "243",
+        "movieName": "\u8352\u91ce\u751f\u5b58",
+        "introduce": "2007/\u7f8e\u56fd/\u5192\u9669\u4f20\u8bb0\u5267\u60c5",
+        "start": "8.6",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "244",
+        "movieName": "\u9057\u613f\u6e05\u5355",
+        "introduce": "2007/\u7f8e\u56fd/\u5192\u9669\u559c\u5267\u5267\u60c5",
+        "start": "8.5",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "245",
+        "movieName": "\u82f1\u56fd\u75c5\u4eba",
+        "introduce": "1996/\u7f8e\u56fd\u82f1\u56fd/\u7231\u60c5\u5267\u60c5\u6218\u4e89",
+        "start": "8.5",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "246",
+        "movieName": "\u8352\u5c9b\u4f59\u751f",
+        "introduce": "2000/\u7f8e\u56fd/\u5192\u9669\u5267\u60c5",
+        "start": "8.5",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "247",
+        "movieName": "\u52c7\u58eb",
+        "introduce": "2011/\u7f8e\u56fd/\u5267\u60c5\u8fd0\u52a8\u5bb6\u5ead",
+        "start": "8.9",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "248",
+        "movieName": "\u67aa\u706b",
+        "introduce": "1999/\u9999\u6e2f/\u5267\u60c5\u52a8\u4f5c\u72af\u7f6a",
+        "start": "8.7",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "249",
+        "movieName": "\u8fc1\u5f99\u7684\u9e1f",
+        "introduce": "2001/\u6cd5\u56fd\u5fb7\u56fd\u610f\u5927\u5229\u897f\u73ed\u7259\u745e\u58eb/\u7eaa\u5f55\u7247",
+        "start": "9.1",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    },
+    {
+        "serialNumber": "250",
+        "movieName": "\u653b\u58f3\u673a\u52a8\u961f",
+        "introduce": "1995/\u65e5\u672c/\u52a8\u4f5c\u79d1\u5e7b\u52a8\u753b",
+        "start": "8.9",
+        "evaluate": "248892\u4eba\u8bc4\u4ef7",
+        "describtion": "\u5f53\u53d1\u54e5\u7684\u98ce\u8863\u3001\u58a8\u955c\u51fa\u73b0\u5728\u4e86\u51ef\u5947\u8eab\u4e0a\u22ef\u22ef"
+    }
+]
